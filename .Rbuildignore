@@ -1,0 +1,10 @@
+
+^dev$
+^LICENSE\.md$
+^integrity\.Rproj$
+^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^README\.Rmd$
+^CODE_OF_CONDUCT\.md$

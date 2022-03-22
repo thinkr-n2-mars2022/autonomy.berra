@@ -1,0 +1,22 @@
+Package: integrity
+Title: Check The Integrity Of Datasets
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Berra", "Erkosar", , "berra.erkosar@finddx.org", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1565-9313")),
+    person("FIND", role = "cph")
+  )
+Description: This package reads a dataset like nyc_squirrels and check its
+    integrity.
+License: MIT + file LICENSE
+Imports: 
+    stats
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: 
+    knitr
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
