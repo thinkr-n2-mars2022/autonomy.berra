@@ -76,7 +76,7 @@ After inflating the template
 #' 
 
 check_data_integrity <- function(dataset) {
-  
+  print("trying to change")
   ifelse(("+" %in%  dataset$primary_fur_color), print("STOP"), print("The data integrity is OK"))
 }
 ```
