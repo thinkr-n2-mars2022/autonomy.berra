@@ -25,7 +25,7 @@ The goal of integrity is to ...
 You can install the development version of integrity like so:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# I am now adding here a description
 ```
 
 ## Example
