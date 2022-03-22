@@ -25,7 +25,8 @@ The goal of integrity is to ...
 You can install the development version of integrity like so:
 
 ``` r
-# I am now adding here a description
+# I am now adding here a description.
+print("works")
 ```
 
 ## Example
